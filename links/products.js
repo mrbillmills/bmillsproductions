@@ -363,6 +363,56 @@ window.FAVORITE_FINDS = [
     height: 1378,
     alt: "A black Casio MS-80B desktop calculator."
   },
+  {
+    num: 36,
+    name: "Lodge 10.25-Inch Cast Iron Skillet",
+    blurb: "A pre-seasoned 10.25-inch skillet that holds heat well and works on the stove, in the oven, or over a campfire.",
+    url: "https://www.amazon.com/dp/B00006JSUA?tag=billmills-20",
+    image: "../images/finds/36-lodge-cast-iron-skillet.jpg",
+    width: 1004,
+    height: 1500,
+    alt: "A black Lodge 10.25-inch pre-seasoned cast iron skillet."
+  },
+  {
+    num: 37,
+    name: "Meguiar's Quik Detailer Mist & Wipe, 16 oz",
+    blurb: "A spray-and-wipe detailer for bringing back the shine between washes, safe on clear coat.",
+    url: "https://www.amazon.com/dp/B0009IQX90?tag=billmills-20",
+    image: "../images/finds/37-meguiars-quik-detailer.jpg",
+    width: 1005,
+    height: 1500,
+    alt: "A 16 oz spray bottle of Meguiar's Quik Detailer Mist & Wipe."
+  },
+  {
+    num: 38,
+    name: "Elmer's Disappearing Purple Glue Sticks, 30 Count",
+    blurb: "Washable glue sticks that go on purple and dry clear, a 30-pack for school and Sunday school crafts.",
+    url: "https://www.amazon.com/dp/B000VXO4L2?tag=billmills-20",
+    image: "../images/finds/38-elmers-purple-glue-sticks.jpg",
+    width: 1500,
+    height: 1500,
+    alt: "A 30-count pack of Elmer's Disappearing Purple school glue sticks."
+  },
+  {
+    num: 39,
+    name: "Melissa & Doug Reusable Sticker Pad: Vehicles",
+    blurb: "165+ reusable cling stickers with five vehicle scenes, great for car rides and quiet time.",
+    url: "https://www.amazon.com/dp/122308079X?tag=billmills-20",
+    image: "../images/finds/39-melissa-doug-vehicle-sticker-pad.jpg",
+    width: 1500,
+    height: 955,
+    alt: "Melissa & Doug reusable vehicles sticker pad with trucks, planes, and trains."
+  },
+  {
+    num: 40,
+    name: "Pilot G2 Bold Gel Pens, 12-Pack",
+    blurb: "Bold, smooth gel pens with a comfy grip, great for writing in your printed budget pages.",
+    url: "https://www.amazon.com/dp/B001E6D3W6?tag=billmills-20",
+    image: "../images/finds/40-pilot-g2-bold-gel-pens.jpg",
+    width: 968,
+    height: 1500,
+    alt: "A 12-pack of black Pilot G2 bold 1.0mm gel pens."
+  },
 ];
 
 window.EARLIER_FINDS = [
