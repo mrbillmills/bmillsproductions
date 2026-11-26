@@ -9,7 +9,7 @@
   3. Set `num` so social posts can say "Find #12".
   4. Fill name, blurb, url (include ?tag=billmills-20), image, width, height, alt.
 
-  FAVORITE_FINDS is batch 2 (Find #1–#30). EARLIER_FINDS is the first
+  FAVORITE_FINDS is batch 2 (Find #1–#30) plus ongoing picks (Find #31 on). EARLIER_FINDS is the first
   six picks, listed separately so the new post numbers stay unique.
 */
 window.FAVORITE_FINDS = [
@@ -312,6 +312,56 @@ window.FAVORITE_FINDS = [
     width: 1468,
     height: 1394,
     alt: "Energizer 12-foot, 10-gauge jumper cables with a carry bag."
+  },
+  {
+    num: 31,
+    name: "Brother P-touch D220 Label Maker",
+    blurb: "A handheld label maker with a full keyboard for pantry bins, drawers, and file folders.",
+    url: "https://www.amazon.com/dp/B0B1L3BL1G?tag=billmills-20",
+    image: "../images/finds/31-brother-ptouch-d220.jpg",
+    width: 1500,
+    height: 1342,
+    alt: "A white Brother P-touch D220 label maker."
+  },
+  {
+    num: 32,
+    name: "My Little Library: Bible Stories",
+    blurb: "Twelve mini Bible story board books in a carry case, great for church bags and bedtime.",
+    url: "https://www.amazon.com/dp/1640309969?tag=billmills-20",
+    image: "../images/finds/32-my-little-library-bible-stories.jpg",
+    width: 1500,
+    height: 1500,
+    alt: "My Little Library Bible Stories box set of 12 board books with a carry handle."
+  },
+  {
+    num: 33,
+    name: "Bruder Mack Granite Dump Truck",
+    blurb: "A detailed 1:16 dump truck with a tipping bed and opening doors that holds up in sand and snow.",
+    url: "https://www.amazon.com/dp/B000NYT1M6?tag=billmills-20",
+    image: "../images/finds/33-bruder-mack-dump-truck.jpg",
+    width: 1000,
+    height: 599,
+    alt: "A yellow and black Bruder Mack Granite toy dump truck."
+  },
+  {
+    num: 34,
+    name: "Crayola Super Tips Markers, 100 Count",
+    blurb: "A big box of 100 washable markers that draw thin or thick, perfect for detailed coloring pages.",
+    url: "https://www.amazon.com/dp/B071CP6X88?tag=billmills-20",
+    image: "../images/finds/34-crayola-super-tips-100.jpg",
+    width: 953,
+    height: 1500,
+    alt: "A box of Crayola Super Tips washable markers, 100 colors."
+  },
+  {
+    num: 35,
+    name: "Casio MS-80B Desktop Calculator",
+    blurb: "A desk calculator with a large display and memory keys to keep beside your budget pages.",
+    url: "https://www.amazon.com/dp/B003822IRA?tag=billmills-20",
+    image: "../images/finds/35-casio-ms-80b-calculator.jpg",
+    width: 1500,
+    height: 1378,
+    alt: "A black Casio MS-80B desktop calculator."
   },
 ];
 
