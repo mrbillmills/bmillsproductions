@@ -702,7 +702,7 @@ h3 {
 .footer-contact a:hover { color: var(--accent); }
 
 
-/* Favorite Finds */
+/* Helpful Finds */
 .disclosure {
   font-size: 0.92rem;
   color: var(--ink-soft);
@@ -735,6 +735,26 @@ h3 {
   color: var(--ink-soft);
   margin: 0 0 0.7rem;
   line-height: 1.45;
+}
+
+
+.buy-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem 0.75rem;
+  margin-top: auto;
+}
+.buy-row .btn-card {
+  width: auto;
+  flex: 1 1 12rem;
+  margin-top: 0;
+}
+.paid-link {
+  flex: 1 1 7.5rem;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  color: var(--ink-soft);
 }
 
 .btn-label-short { display: none; }
