@@ -103,6 +103,27 @@
   font-size: 1.05rem;
 }
 
+.buy-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem 0.75rem;
+  margin-top: auto;
+}
+
+.buy-row .btn-amazon {
+  width: auto;
+  flex: 1 1 12rem;
+  margin-top: 0;
+}
+
+.paid-link {
+  flex: 1 1 7.5rem;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  color: var(--ink-soft);
+}
+
 .links-also {
   padding: 2.4rem 0 1.2rem;
   text-align: center;
