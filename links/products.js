@@ -413,6 +413,56 @@ window.FAVORITE_FINDS = [
     height: 1500,
     alt: "A 12-pack of black Pilot G2 bold 1.0mm gel pens."
   },
+  {
+    num: 41,
+    name: "The Toddler's Bible",
+    blurb: "101 short Bible stories with bright pictures, just right for toddler bedtime reading.",
+    url: "https://www.amazon.com/dp/0781405793?tag=billmills-20",
+    image: "../images/finds/41-toddlers-bible.jpg",
+    width: 1121,
+    height: 1500,
+    alt: "Cover of The Toddler's Bible by V. Gilbert Beers."
+  },
+  {
+    num: 42,
+    name: "Green Toys Recycling Truck",
+    blurb: "A sturdy recycled-plastic truck with three chutes for sorting bottles, cans, and paper.",
+    url: "https://www.amazon.com/dp/B001Q3KUA0?tag=billmills-20",
+    image: "../images/finds/42-green-toys-recycling-truck.jpg",
+    width: 1500,
+    height: 919,
+    alt: "A green and white Green Toys recycling truck with sorting chutes."
+  },
+  {
+    num: 43,
+    name: "Crayola Twistables Colored Pencils, 50 Count",
+    blurb: "50 twist-up colored pencils that never need sharpening, great for coloring pages.",
+    url: "https://www.amazon.com/dp/B07D4RN9NH?tag=billmills-20",
+    image: "../images/finds/43-crayola-twistables-colored-pencils.jpg",
+    width: 1500,
+    height: 1195,
+    alt: "A 50-count box of Crayola Twistables colored pencils."
+  },
+  {
+    num: 44,
+    name: "OXO Good Grips Salad Spinner",
+    blurb: "One-handed pump salad spinner with a brake button and a non-skid base.",
+    url: "https://www.amazon.com/dp/B00004OCKR?tag=billmills-20",
+    image: "../images/finds/44-oxo-salad-spinner.jpg",
+    width: 1500,
+    height: 1108,
+    alt: "An OXO Good Grips salad spinner with a clear bowl."
+  },
+  {
+    num: 45,
+    name: "Simple Houseware 6-Shelf Hanging Closet Organizer",
+    blurb: "Six fabric shelves plus side mesh pockets that hang right from your closet rod.",
+    url: "https://www.amazon.com/dp/B06XSS9SSL?tag=billmills-20",
+    image: "../images/finds/45-simple-houseware-closet-organizer.jpg",
+    width: 487,
+    height: 1500,
+    alt: "A gray Simple Houseware six-shelf hanging closet organizer."
+  },
 ];
 
 window.EARLIER_FINDS = [
