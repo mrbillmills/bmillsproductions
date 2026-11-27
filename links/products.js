@@ -285,13 +285,13 @@ window.FAVORITE_FINDS = [
   },
   {
     num: 28,
-    name: "Kaistyle MagSafe Car Phone Holder",
+    name: "Kaistyle Magnetic Car Phone Holder (MagSafe-compatible)",
     blurb: "A magnetic dash mount that keeps your phone in view for maps while you drive.",
     url: "https://www.amazon.com/dp/B0C1Y8Z6VT?tag=billmills-20",
     image: "../images/finds/28-kaistyle-magsafe-car-mount.png",
     width: 800,
     height: 800,
-    alt: "Text graphic for Kaistyle MagSafe Car Phone Holder, with the line: A magnetic dash mount that holds a phone in view while driving."
+    alt: "Text graphic for Kaistyle Magnetic Car Phone Holder (MagSafe-compatible), with the line: A magnetic dash mount that holds a phone in view while driving."
   },
   {
     num: 29,
